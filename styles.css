@@ -29,6 +29,7 @@ body {
   text-align: center;
   background: rega(0, 0, 0, 0.7);
   text-shadow: 0 0 5px black;
+  cursor: pointer;
 }
 
 .sound {
